@@ -1,0 +1,36 @@
+body {
+  background-color: cornflowerblue;
+  font-size: 16;
+}
+li {
+  font-size: 20px;
+}
+span {
+  font-weight: 600;
+}
+img {
+  width: 400px;
+  height: 400px;
+}
+button {
+  background-color: rgb(226, 200, 168);
+}
+.bl1 {
+  width: 98%;
+  background-color: rgb(232, 220, 131);
+  /* height: 60px; */
+  margin: 1%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  display: flex;
+  width: 85%;
+  /* height: 80px; */
+  /* margin: 1%; */
+  text-align: left;
+}
+.hidden {
+  display: none;
+}
