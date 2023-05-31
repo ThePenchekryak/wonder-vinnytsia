@@ -14,6 +14,7 @@ img {
 }
 button {
   background-color: rgb(226, 200, 168);
+  display: flex;
 }
 .bl1 {
   width: 98%;
@@ -27,7 +28,6 @@ button {
 .text {
   display: flex;
   width: 85%;
-  /* height: 80px; */
   /* margin: 1%; */
   text-align: left;
 }
